@@ -1,5 +1,3 @@
-# wxapplet-tutorial
-
 wx-gesture-lock  微信小程序的手势密码
 WXCustomSwitch 微信小程序自定义 Switch 组件模板
 WeixinAppBdNovel 微信小程序demo：百度小说搜索
@@ -80,6 +78,3 @@ zhihudaily  微信小程序-知乎日报
 wechat-weapp-gank 微信小程序-干货投稿应用
 TeamToy  调用TeamToy API 的微信小程序 Demo
 douban 微信小程序（应用号）示例教程（豆瓣电影）
-
-
-reference: http://blog.csdn.net/zuoliangzhu/article/details/53862576
